@@ -17,4 +17,7 @@ We envision a world where everyone has easy access to impact-driven, world-class
 
 - **Email:** contact@memhiret.com
 
-**MemhirET - Moving the Needle**
+## Status
+
+### Landing Page
+![Netlify Status](https://api.netlify.com/api/v1/badges/8522977e-89f0-4792-95ec-a8551de2f168/deploy-status)
